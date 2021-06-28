@@ -1,0 +1,75 @@
+body {
+	background-color: CCCCCC;
+	background: url("polkadots.png");
+	background-size: 378px 378px
+}
+
+header {
+	height: 480px;
+	background: url("headerImageShapes.png");
+	background-repeat: no-repeat;
+	background-size: 1400px 500px
+	
+}
+
+.headerimage {
+
+	margin: 140px 200px 0px 280px;
+	height: 200px;
+	width: 800px;
+	background-color: white;
+	opacity: 0.95;
+}
+
+
+h1 {
+	font-family: "Modern Love", sans-serif;
+	text-align: center;
+	font-size: 20px
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	color: #00CC99;
+	margin-left: 185px;
+	text-shadow: 1px 1px #434343;
+}
+
+nav {
+	display: block;
+	text-align: center;
+	height: 50px;
+	padding: 5px 0px 5px 445px;
+	color: #FF0066;
+	text-shadow: 1px 1px #434343;
+	background-color: white;
+	opacity: 0.9;
+}
+
+.navlist li {
+	float: left;
+	list-style-type: none;
+	font-family: Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+figure img {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+figure {
+	margin: 0px 0px 0px 185px;
+	
+}
+
+.charts {
+	
+	background-color: white;
+	width: 960px;
+}
+
+
+}
