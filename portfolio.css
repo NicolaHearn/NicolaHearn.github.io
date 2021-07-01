@@ -12,20 +12,10 @@ header {
 	
 }
 
-.headerimage {
-
-	margin: 140px 200px 0px 280px;
-	height: 200px;
-	width: 800px;
-	background-color: white;
-	opacity: 0.95;
-}
-
-
 h1 {
-	font-family: "Modern Love", sans-serif;
+	font-family: "Zeyada", sans-serif;
 	text-align: center;
-	font-size: 20px
+	font-size: 80px;
 }
 
 h2 {
